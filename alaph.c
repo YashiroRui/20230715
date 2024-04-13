@@ -3,7 +3,12 @@
 
 int main()
 {
-	printf("114514\n");
+	
+	printf("1919810\n");
+	printf("1919810\n");
+	printf("1919810\n");
+	printf("1919810\n");
+	printf("1919810\n");
 	return 0;
 }
 
