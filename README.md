@@ -98,4 +98,22 @@
 
 -----
 
+> bangdream
+>> morfonica
+>>> YashiroRui
+>>>> ayasa
+
+
+* FPS
+  1. csgo
+     * dust2
+     * mirage
+  2. overwatch
+* MOBA
+  1. DOTA2
+  2. LOL
+* RTS
+  1. SC2
+  2. WAR3
+
 
