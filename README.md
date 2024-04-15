@@ -126,5 +126,13 @@
 ### 超链接
 [哔哩哔哩](https://www.bilibili.com "访问b站")
 
+### 图片链接 \!\[图片名\]\(图片地址 “悬停标题”\)
 
+```c
+	#include<stdio.h>
 
+	int main()
+	{
+		return 0;
+	}
+```
